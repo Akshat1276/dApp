@@ -1,3 +1,5 @@
+import "@openzeppelin/contracts/utils/structs/Counters.sol";
+
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
